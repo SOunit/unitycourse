@@ -1,0 +1,3 @@
+# input manager
+
+- project settings /
