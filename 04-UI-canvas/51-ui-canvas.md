@@ -16,3 +16,7 @@
 - to handle multiple screen size
 - to setup center from anchor
 - to setup cover
+
+# shortcut for anchor / pivot
+
+- alt + shift
